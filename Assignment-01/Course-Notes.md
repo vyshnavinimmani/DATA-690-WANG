@@ -51,5 +51,5 @@
 > ### if statement is control flow statement checks condition . If its true then executes but if it is false then executes else.
 > ## for loops
 > ### for loops are for iterating over a collection or an iterater.A for loop can be exited altogether with the break keyword.
-> # Ternary expressions
+# Ternary expressions
 > ## A Ternary expression in Python allows to combine an if-else block that produces value into single line or expression.
